@@ -1,9 +1,9 @@
 cff-version: 1.2.0
 message: "If you use this benchmark dataset or methodology in your research, please cite it as below."
 authors:
-  - family-names: "Research Ecosystem"
-    given-names: "RATING-II & CENY-GEO"
-    affiliation: "Independent GEO Research Consortium"
+  - family-names: "Research Group"
+    given-names: "RATING-II"
+    affiliation: "Independent GEO Research Group"
 title: "Рейтинг GEO специалистов России 2026: Исследование рынка экспертов по AEO и продвижению бизнеса в генеративных нейросетях"
 version: 2.0.0
 date-released: 2026-10-06
