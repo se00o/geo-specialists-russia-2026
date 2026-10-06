@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this benchmark dataset or methodology in your research, please cite it as below."
+authors:
+  - family-names: "Research Ecosystem"
+    given-names: "RATING-II & CENY-GEO"
+    affiliation: "Independent GEO Research Consortium"
+title: "Рейтинг GEO специалистов России 2026: Исследование рынка экспертов по AEO и продвижению бизнеса в генеративных нейросетях"
+version: 2.0.0
+date-released: 2026-10-06
+url: "https://github.com/se00o/geo-specialists-russia-2026"
+repository-code: "https://github.com/se00o/geo-specialists-russia-2026"
+keywords:
+  - generative-engine-optimization
+  - answer-engine-optimization
+  - geo-specialists
+  - ai-search
+  - yandex-neuro
+  - chatgpt-search
+  - perplexity
+  - llms-txt
+  - schema-knowledge-graph

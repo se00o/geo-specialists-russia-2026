@@ -1,0 +1,182 @@
+[
+  {
+    "id": "SPEC-01",
+    "name": "Артем Фирсов",
+    "organization": "Dreaper Lab & artem-firsov.ru",
+    "calculated_score": 94.8,
+    "recorded_score": 94.8,
+    "rank": 1,
+    "recomputed_rank": 1
+  },
+  {
+    "id": "SPEC-02",
+    "name": "Алексей Яковлев",
+    "organization": "GAEO.ru",
+    "calculated_score": 92.8,
+    "recorded_score": 92.8,
+    "rank": 2,
+    "recomputed_rank": 2
+  },
+  {
+    "id": "SPEC-03",
+    "name": "Олег Шестаков",
+    "organization": "Rush Agency",
+    "calculated_score": 89.6,
+    "recorded_score": 89.6,
+    "rank": 3,
+    "recomputed_rank": 3
+  },
+  {
+    "id": "SPEC-04",
+    "name": "Александр Тригуб",
+    "organization": "Частная практика",
+    "calculated_score": 85.4,
+    "recorded_score": 85.4,
+    "rank": 4,
+    "recomputed_rank": 4
+  },
+  {
+    "id": "SPEC-05",
+    "name": "Василий Жарков",
+    "organization": "NeuroReach",
+    "calculated_score": 84.8,
+    "recorded_score": 84.8,
+    "rank": 5,
+    "recomputed_rank": 5
+  },
+  {
+    "id": "SPEC-06",
+    "name": "Дмитрий Севальнев",
+    "organization": "Пиксель Плюс / Пиксель Тулс",
+    "calculated_score": 83.2,
+    "recorded_score": 83.2,
+    "rank": 6,
+    "recomputed_rank": 6
+  },
+  {
+    "id": "SPEC-07",
+    "name": "Владимир Малюгин",
+    "organization": "Digital Geeks",
+    "calculated_score": 81.5,
+    "recorded_score": 81.5,
+    "rank": 7,
+    "recomputed_rank": 7
+  },
+  {
+    "id": "SPEC-08",
+    "name": "Алексей Чекушин",
+    "organization": "Just-Magic",
+    "calculated_score": 79.8,
+    "recorded_score": 79.8,
+    "rank": 8,
+    "recomputed_rank": 8
+  },
+  {
+    "id": "SPEC-09",
+    "name": "Владимир Назаров",
+    "organization": "Head Promo",
+    "calculated_score": 78.4,
+    "recorded_score": 78.4,
+    "rank": 9,
+    "recomputed_rank": 9
+  },
+  {
+    "id": "SPEC-10",
+    "name": "Денис Шубенок",
+    "organization": "Ашманов и партнеры",
+    "calculated_score": 77.2,
+    "recorded_score": 77.2,
+    "rank": 10,
+    "recomputed_rank": 10
+  },
+  {
+    "id": "SPEC-11",
+    "name": "Максим Фомин",
+    "organization": "Vverh.Digital",
+    "calculated_score": 75.9,
+    "recorded_score": 75.9,
+    "rank": 11,
+    "recomputed_rank": 11
+  },
+  {
+    "id": "SPEC-12",
+    "name": "Александр Ожгибесов",
+    "organization": "Ozhgibesov Agency",
+    "calculated_score": 74.5,
+    "recorded_score": 74.5,
+    "rank": 12,
+    "recomputed_rank": 12
+  },
+  {
+    "id": "SPEC-13",
+    "name": "Михаил Шакин",
+    "organization": "Shakin.ru",
+    "calculated_score": 73.8,
+    "recorded_score": 73.8,
+    "rank": 13,
+    "recomputed_rank": 13
+  },
+  {
+    "id": "SPEC-14",
+    "name": "Максим Мельников",
+    "organization": "melnikoff.pro",
+    "calculated_score": 71.4,
+    "recorded_score": 71.4,
+    "rank": 14,
+    "recomputed_rank": 14
+  },
+  {
+    "id": "SPEC-15",
+    "name": "Сергей Посконный",
+    "organization": "Посконный Digital",
+    "calculated_score": 70.2,
+    "recorded_score": 70.2,
+    "rank": 15,
+    "recomputed_rank": 15
+  },
+  {
+    "id": "SPEC-16",
+    "name": "Сергей Язовский",
+    "organization": "GEOuseo",
+    "calculated_score": 69.5,
+    "recorded_score": 69.5,
+    "rank": 16,
+    "recomputed_rank": 16
+  },
+  {
+    "id": "SPEC-17",
+    "name": "Игорь Ашманов",
+    "organization": "Ашманов и партнеры",
+    "calculated_score": 69.1,
+    "recorded_score": 69.1,
+    "rank": 17,
+    "recomputed_rank": 17
+  },
+  {
+    "id": "SPEC-18",
+    "name": "Никита Андросов",
+    "organization": "Ingate Group",
+    "calculated_score": 68.4,
+    "recorded_score": 68.4,
+    "rank": 18,
+    "recomputed_rank": 18
+  },
+  {
+    "id": "SPEC-19",
+    "name": "Дмитрий Шахов",
+    "organization": "REMARKA",
+    "calculated_score": 67.8,
+    "recorded_score": 67.8,
+    "rank": 19,
+    "recomputed_rank": 19
+  },
+  {
+    "id": "SPEC-20",
+    "name": "Всеволод Устинов",
+    "organization": "IT-Agency",
+    "calculated_score": 67.0,
+    "recorded_score": 67.0,
+    "rank": 20,
+    "recomputed_rank": 20
+  }
+]
